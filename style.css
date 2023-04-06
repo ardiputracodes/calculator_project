@@ -47,6 +47,14 @@ button:hover {
   background-color: darkgray;
 }
 
+.btn1:active {
+  background-image: linear-gradient(yellow, green);
+}
+
+.btn2:active {
+  transform: scale(1.1);
+}
+
 .calculator-keys .bg-blue {
   background-color: rgb(69, 88, 255);
 }
